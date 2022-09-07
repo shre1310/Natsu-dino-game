@@ -1,20 +1,29 @@
 .game{
-  width: 600px;
-  height: 200px;
+  width: 10000px;
+  height: 5000px;
   border: 1px solid black;
   margin: auto;
   
   }
 
   #natsu{
+    width: 100px;
+    height: 100px;
+    background-image: url(img/erza.png);
+    background-size: 100px 100px;
+    position: relative;
+    top:750px
+    
+  }
+  /* #erza{
     width: 50px;
     height: 50px;
-    background-image: url(img/natsu.png);
+    background-image: url(img/png-transparent-gray-fullbuster-natsu-dragneel-erza-scarlet-fairy-tail-chibi-fairy-tail-thumbnail.png);
     background-size: 50px 50px;
     position: relative;
     top:150px;
-    
-  }
+     */
+  /* } */
   .jump{
     animation: jump 0.3s linear;
   }
@@ -34,12 +43,12 @@
     }
   }
   #dino{
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     position: relative;
-    top: 110px;
+    top: 655px;
     left: 560px;
-    background-image: url(img/dino.jpg);
+    background-image: url(img/natsu.png);
     background-size: 40px 40px;
     animation: dino 3.0s infinite;
   }

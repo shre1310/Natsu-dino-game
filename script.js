@@ -13,3 +13,5 @@ function jump(){
 document.addEventListener("keydown", function(event){
   jump();
 });
+
+// document.addEventListener('DOMcontentloade')
