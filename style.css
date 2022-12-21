@@ -18,7 +18,7 @@
   /* #erza{
     width: 50px;
     height: 50px;
-    background-image: url(img/png-transparent-gray-fullbuster-natsu-dragneel-erza-scarlet-fairy-tail-chibi-fairy-tail-thumbnail.png);
+    background-image: url(img/jellal.png);
     background-size: 50px 50px;
     position: relative;
     top:150px;
@@ -43,13 +43,13 @@
     }
   }
   #dino{
-    width: 70px;
-    height: 70px;
+    width: 170px;
+    height: 170px;
     position: relative;
     top: 655px;
     left: 560px;
-    background-image: url(img/natsu.png);
-    background-size: 40px 40px;
+    background-image: url(img/jellal.png);
+    background-size: 100px 100px;
     animation: dino 3.0s infinite;
   }
 
