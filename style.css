@@ -43,12 +43,12 @@
     }
   }
   #dino{
-    width: 170px;
-    height: 170px;
+    width: 270px;
+    height: 270px;
     position: relative;
     top: 655px;
     left: 560px;
-    background-image: url(img/jellal.png);
+    background-image: url(img/dino.jpg);
     background-size: 100px 100px;
     animation: dino 3.0s infinite;
   }
